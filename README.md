@@ -1,7 +1,7 @@
 # DHGE - Praktische Informatik - Matrikel 20 - Semester 3
 
 Dieses Repository ist ein Projekt von Studierenden des Studiengangs "Praktische Informatik" der Dualen Hochschule Gera-Eisenach.  Hier werden alle Mitschriften der einzelnen Modulen gesammelt. Die Skripte liegen im `markdown`-Format vor. Zur besseren Handhabung (und weil Github nur begrenzte `markdown`-Features bereitstellt) werden diese zusätzlich automatisch in [PDFs](https://github.com/importPI19fromDHGE/dhge-pi19-sem3/releases) umgewandelt und zur Verfügung gestellt.
-Die Grundarbeiten wurde von PI19 gemacht, PI20 führt diese Aufzeichnungen weiter.
+Die Grundarbeiten wurden von PI19 gemacht, PI20 führt diese Aufzeichnungen weiter.
 
 ## Contributing andere Jahrgänge
 
