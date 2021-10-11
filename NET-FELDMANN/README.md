@@ -267,12 +267,12 @@ IETF-Arbeitsgruppen sind einem von 7 Bereichen (Areas) zugeordnet:
 
 ![ISO/OSI Referenzmodell](assets/iso-osi.png)<!-- width=500px -->
 
-- **Anwendungsschicht:** Durch anwendungsspezifische Protokolle verwendet
-- **Darstellungsschicht:** Umwandlung von Daten in unabhängiges Format
-- **Sitzungsschicht**
-- **Transportschicht:** fügt Zusatzinformationen in die Pakete ein, um die Verwendung auf Empfängerseite zu definieren
-- **Vermittlungsschicht:** Weiterleitung über lokale Netze hinaus / zwischen verschiedenen Netzen (unabhängig vom Typ der verwendeten Netze)
-- **Sicherungsschicht:** Erfassung einzelner Bitfolgen als Frames, Hinzufügen von Redundanzinformationen (z.B. CRC - Cyclic Redundancy Check)
+- **Anwendungsschicht:** Kommunikation zw. den Anwendungen (Dienste - RPC, FTP, E-Mail, WWW...)
+- **Darstellungsschicht:** Umwandlung von Daten in unabhängiges Format (z.B. ASCII); Kompression (MPEG, MP3); Verschlüsselung (z.B. RSA)
+- **Sitzungsschicht (Kommunikationssteuerung):** Dialogsteuerung, Synchronisation
+- **Transportschicht:** fügt Zusatzinformationen in die Pakete ein, um die Verwendung auf Empfängerseite zu definieren (Basis IP & Port) - Flusssteuerung zw. Endsystemen
+- **Vermittlungsschicht:** Weiterleitung über lokale Netze hinaus / zwischen verschiedenen Netzen (unabhängig vom Typ der verwendeten Netze); Wegewahl Sender -> Empfänger
+- **Sicherungsschicht:** Erfassung einzelner Bitfolgen als Frames, Hinzufügen von Redundanzinformationen (z.B. CRC - Cyclic Redundancy Check); Behandlung von Übertragungsfehlern
 - **Bitübertragungsschicht:** einzelne Bits in physikalische Signale umwandeln und umgekehrt (Modulation und Demodulation)
 
 ### TCP/IP-Modell
