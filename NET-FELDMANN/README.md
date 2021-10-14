@@ -222,16 +222,17 @@ Bei Abruf einer Website durch `Host A` von `Server A` sind vielfältige Technolo
 
 ### Standardisierung
 
-- ISO
-- ITU
+- ISO (International Organization for Standardization)
+- ITU (International Telecommunication Union)
 - IEEE: Fokus auf den "unteren" Schichten, nah an Physik (Ethernet, Netzwerkkarten,...)
-- IETF: Standardisierung der Protokolle (HTTP, UDP, TCP, Mailprotokolle); Freiwilligenorganisation
+- IETF (Internet Engineering Task Force): Standardisierung der Protokolle (HTTP, UDP, TCP, Mailprotokolle); Freiwilligenorganisation; since 1986
 
 ### Internet Engineering Taskforce
 
 - Publikationsformat der IETF sind RfC's (Request for Comments) mit eindeutigen, fortlaufenden Nummern
-- so ist UDP z.B. durch RFC 768 spezifiziert
+--> so ist UDP z.B. durch RFC 768 spezifiziert
 - recht praxisnahe Beschreibung der Standards
+- RFCs existierten bereits vor IETF
 
 #### Arbeitsgruppen  / IETF-Areas
 
