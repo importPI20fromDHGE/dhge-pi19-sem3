@@ -231,7 +231,7 @@ Dazu muss ein **Load Balancer** die Anfragen beispielsweise an diejenigen MS mit
 
 | Pro                                                        | Contra                                          |
 |------------------------------------------------------------|-------------------------------------------------|
-| kann billiger sein                                         | Netzwerk-Lastig (ggf. langsamer)                |
+| kann günstiger sein                                        | Netzwerk-Lastig (ggf. langsamer)                |
 | Service schneller austauschbar                             | Erstinstallation und -konfiguration ist komplex |
 | gute Skalierbarkeit                                        | Gefahr der Funktionsduplizierung                |
 | bei Dienstausfall sind restliche Funktionen noch vorhanden | Logging ist komplex                             |
