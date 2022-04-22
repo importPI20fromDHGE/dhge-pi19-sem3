@@ -1312,7 +1312,10 @@ $\rightarrow$ Durch Ereignisse werden Transitionen ausgelöst.
 
 ![Beispiel State-Diagramm](assets/uml-state-mensch.png)<!-- width=200px -->
 
+
 Hier ein Beispiel von Zuständen, die durch einen Standesbeamten "gesteuert" werden
+
+
 ![Beispiel Standesbeamter](assets/uml-standesbeamter-bsp.png)<!-- width=200px -->
 
 ## Aktivitätsdiagramm
